@@ -1,0 +1,32 @@
+body{
+    background-color: #333;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header{
+    color: aliceblue;
+}
+
+.color-title{
+    font-weight: normal;
+}
+
+#Red{
+    color: red;
+}
+
+#Blue{
+    color: skyblue;
+}
+
+#Orange{
+    color: orange;
+}
+
+#Green{
+    color: green;
+}
+
+#Yellow{
+    color: yellow;
+}
